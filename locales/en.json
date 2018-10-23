@@ -1,0 +1,14 @@
+{
+  "people": {
+    "title": "People"
+  },
+  "chat": {
+    "title": "Chat"
+  },
+  "search": {
+    "title": "Search"
+  },
+  "more": {
+    "title": "More"
+  }
+}

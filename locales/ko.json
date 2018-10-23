@@ -1,0 +1,14 @@
+{
+  "people": {
+    "title": "친구"
+  },
+  "chat": {
+    "title": "채팅"
+  },
+  "search": {
+    "title": "검색"
+  },
+  "more": {
+    "title": "더보기"
+  }
+}
